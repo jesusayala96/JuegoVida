@@ -1,0 +1,16 @@
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Practica 3\Practica 3\bin\Release\Practica 3.exe
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Practica 3\Practica 3\bin\Release\Practica 3.pdb
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Practica 3\Practica 3\obj\x86\Release\Practica 3.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Practica 3\Practica 3\obj\x86\Release\Practica_3.frmPrincipal.resources
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Practica 3\Practica 3\obj\x86\Release\Practica_3.Properties.Resources.resources
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Practica 3\Practica 3\obj\x86\Release\Practica 3.csproj.GenerateResource.Cache
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Practica 3\Practica 3\obj\x86\Release\Practica 3.exe
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Practica 3\Practica 3\obj\x86\Release\Practica 3.pdb
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Practica 3\Practica 3\obj\x86\Release\Practica 3.exe
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Practica 3\Practica 3\obj\x86\Release\Practica 3.pdb
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Practica 3\Practica 3\bin\Release\Practica 3.exe
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Practica 3\Practica 3\bin\Release\Practica 3.pdb
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Practica 3\Practica 3\obj\x86\Release\Practica 3.csprojResolveAssemblyReference.cache
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Practica 3\Practica 3\obj\x86\Release\Practica_3.frmPrincipal.resources
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Practica 3\Practica 3\obj\x86\Release\Practica_3.Properties.Resources.resources
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Practica 3\Practica 3\obj\x86\Release\Practica 3.csproj.GenerateResource.Cache
